@@ -1,0 +1,30 @@
+@import url('./reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+nav {
+	background-color: lightgreen;
+}
+
+main {
+	background-color: lightcoral;
+}
+
+footer {
+	background-color: lightgoldenrodyellow;
+}
+
+
+h2 {
+	font-weight: 700;
+	font-style: italic;
+}
+
+.border-container {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+}
